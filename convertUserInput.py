@@ -1,3 +1,3 @@
-europe=input('Enter floor no. : ')
-usa=int(europe) + 1
+europe=input('Enter floor noumber : ')
+usa=int(europe) + 100
 print('USA floor' , usa)
