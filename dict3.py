@@ -1,8 +1,8 @@
 counts = dict()
-names = ['aa' , 'bb' , 'cc' , 'aa' , 'cc' , 'dd']
-for name in names:
-    if name not in counts:
-        counts[name] = 1
+names = ['aa' , 'bb' , 'cc' , 'AA' , 'CC' , 'DD']
+for namess in names:
+    if namess not in counts:
+        counts[namess] = 1
     else:
-        counts[name] = counts[name] + 1
+        counts[namess] = counts[namess] + 1
 print(counts)
