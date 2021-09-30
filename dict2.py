@@ -1,4 +1,4 @@
-iii = {'rax' : 1 , 'alex' : 2 , 'nation' : 3 , 'roy' : 4}
-print(iii)
-iii['rax'] = iii['rax'] + 10
-print(iii)
+yo = {'rax' : 1 , 'ALEX' : 2 , 'nation' : 3 , 'ROY' : 4}
+print(yo)
+yo['rax'] = yo['rax'] + 10
+print(yo)
