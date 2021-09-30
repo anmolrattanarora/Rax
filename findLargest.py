@@ -1,6 +1,6 @@
-defNo = 0
-print('Before :' , defNo)
-for num in [74,54,63,98,41,28,74,63,85,98]:
-    if num > defNo:
-        defNo = num
-print('Largest Number: ',defNo)
+defFNo = 0
+print('Before :' , defFNo)
+for num in [74,54,63,98,99,28,52,78,85,98]:
+    if num > defFNo:
+        defFNo = num
+print('Largest Number: ',defFNo)
